@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot with no users 1`] = `
+<DocumentFragment>
+  <div
+    class="UserList col-md-8 offset-md-2"
+  >
+    <div />
+  </div>
+</DocumentFragment>
+`;
